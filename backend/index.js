@@ -12,7 +12,7 @@ app.post("/compile", async (req, res) => {
     method: "POST",
     headers: {
       "x-rapidapi-host": "judge0-ce.p.rapidapi.com",
-      "x-rapidapi-key": "47dd06e763msh7a21f967ee85a7dp1831c1jsnff4b61e3b556", // Get yours for free at https://rapidapi.com/judge0-official/api/judge0-ce/
+      "x-rapidapi-key": "xxx", // Get yours for free at https://rapidapi.com/judge0-official/api/judge0-ce/
       "content-type": "application/json",
       accept: "application/json",
     },
